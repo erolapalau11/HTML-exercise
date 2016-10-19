@@ -30,10 +30,6 @@
 </p>
 <h2>Nos compétences: </h2>
 <p>Notre équipe comprend des business développeurs, des développeurs, expert dans les domaines de la santé. On se distingue par notre créativité, notre savoir-faire et de nos engagements prononcés.</p>
-<h2>Notre motivation: </h2>
-<p></p>
-<h2>Méthodologie:</h2>
-<p></p>
 <h2>Résultat final: </h2>
 <p> Comme décrit dans l'article du <i>Point</i>: "Ce « hackathon », qui mêle recherche scientifique et travaille sur sa faisabilité, démontre l'importance de mêler des profils venus de différents univers professionnels. C'est ce qu'explique le docteur Matthieu Durand, fondateur associé de l'agence Planète med et intervenant pendant le « hackathon » : « En favorisant les rencontres entre différents corps de métier, cela permet de voir une solution émerger, qu'elle soit envisageable technologiquement, voire commercialisée ». Pour lui, l'exemple à suivre est celle des universités américaines où cet échange est favorisé. « Aux Etats-Unis, durant les quatre premières années, un étudiant de médecin est en confrontation permanent avec les autres disciplines. En France, il convient de faire six ans de médecine et cinq ans d'internat ! » <br>
 Des initiatives se multiplient en France et Nice, ville où a été organisé Neuroplanète, est à la pointe en la matière. De multiples connexions existent en effet entre un secteur médical important et Sofia Antipolis, la plus grande technopole d'Europe, faisant de Nice l'une des principales « smart city » (ville intelligente) au monde. </p> <br>
